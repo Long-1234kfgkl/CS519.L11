@@ -14,8 +14,14 @@ Slide của tác giả Kamal Talwar đưa ra một cách khái quát và trực 
 https://www.coursera.org/learn/critical-thinking-skills
 
 Khóa học Critical Thinking Skills for University Sucess của đại học Sydney:
+
 -Sử dụng critical thinking và tranh luận trong môi trường đại học để cải thiện kết quả học tập
+
 -Hiểu được tầm quan trọng của critical thinking
+
 -Sử dụng nhiều công cụ để cải thiện khả năng tư duy phản biện
+
 -Sử dụng các bằng chứng để bảo vệ quan điểm trong các cuộc tranh luận
+
 -Áp dụng critical thinking và tranh luận vào thực tế
+
